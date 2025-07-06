@@ -3,19 +3,19 @@ from os import getenv
 from dotenv import load_dotenv
 
 
-API_ID = int(6435225) #optional
-API_HASH = "4e984ea35f854762dcde906dce426c2d" #optional
+API_ID = int(26094030) #optional
+API_HASH = "fae652f4d0119d5c37cb8325eac8737d" #optional
 
 SUDO_USERS = list(map(int, ("").split()))
-OWNER_ID = int(1234567890)
+OWNER_ID = int(7965193336)
 MONGO_URL = "MONGO_URL"
 BOT_TOKEN = "BOT_TOKEN"
-ALIVE_PIC = 'https://telegra.ph/file/3c52a01057865f7511168.jpg'
+ALIVE_PIC = 'https://telegra.ph/file/dfde87c32f8951c6b7628.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
 LOG_GROUP = None
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/ITZ-ZAID/ZAID-USERBOT"
+REPO_URL = "https://t.me/Toxic_XD_Hindu"
 BRANCH = "master" #don't change
  
 STRING_SESSION1 = ""
